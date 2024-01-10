@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/R Fatih/AndroidStudioProjects/GPACalculator2/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/R Fatih/AndroidStudioProjects/GPACalculator2/app/src/main/res/layout/activity_semester_details.xml" value="0.24817518248175183" />
+        <entry key="..\:/Users/R Fatih/AndroidStudioProjects/GPACalculator2/app/src/main/res/layout/activity_semesters.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/R Fatih/AndroidStudioProjects/GPACalculator2/app/src/main/res/layout/activity_settings.xml" value="0.2" />
+        <entry key="..\:/Users/R Fatih/AndroidStudioProjects/GPACalculator2/app/src/main/res/layout/custom_semester_details_lectures.xml" value="0.20802919708029197" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
